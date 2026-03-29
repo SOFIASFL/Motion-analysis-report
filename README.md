@@ -1,6 +1,6 @@
 ﻿# Padel-Lite Tracking System
 
-End-to-end demo of a **padel player analytics pipeline**: YOLO detection → DeepSORT tracking → live dashboard → annotated video + stats JSON. Built to be **demo-ready in under an hour**, but structured so it can evolve into production.
+End-to-end demo of a **padel player analytics pipeline**: YOLO detection → DeepSORT tracking → live dashboard → annotated video + stats JSON. Built to be a **demo**, but structured so it can evolve into production.
 
 ## Why This Is Interesting (Recruiter-Friendly)
 - Real-time CV pipeline with detection + multi-object tracking.
